@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" src="<a href="#"><img width="100%" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="250px"/></a>" height="250px"/></a>
+
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 <h3 align="center">ASPIRANT LEARNING MERN, AI & DS FORM INDIA</h3>
 
@@ -7,12 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/the_anupamkumar" target="blank"><img src="https://img.shields.io/twitter/follow/the_anupamkumar?logo=twitter&style=for-the-badge" alt="the_anupamkumar" /></a> </p>
 
+- 🌱 I’m currently learning **MERN and ML**
+
+- 📫 How to reach me **anupamkumar7802@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_anupamkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_anupamkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thenaupamkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenaupamkumar1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC_CgNXGX_3diW5tZYD8mMmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thenaupamkumar1" height="30" width="40" /></a>
 <a href="https://instagram.com/the_anupam_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_anupam_kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc_cgnxgx_3diw5tzyd8mmmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc_cgnxgx_3diw5tzyd8mmmw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
