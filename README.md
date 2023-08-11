@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="<a href="#"><img width="100%" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="250px"/></a>" height="250px"/></a>
+<a href="#"><img width="100%" src="<a href="#"><img width="100%" src="https://avatars.githubusercontent.com/u/62919574?v=4" height="250px"/></a>
 
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 <h3 align="center">ASPIRANT LEARNING MERN, AI & DS FORM INDIA</h3>
