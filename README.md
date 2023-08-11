@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/the_anupamkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_anupamkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thenaupamkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenaupamkumar1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_CgNXGX_3diW5tZYD8mMmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thenaupamkumar1" height="30" width="40" /></a>
 <a href="https://instagram.com/the_anupam_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_anupam_kumar" height="30" width="40" /></a>
 </p>
 
