@@ -8,7 +8,7 @@
 </pre>
 
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
-<h3 align="center">ASPIRANT LEARNING MERN, AI & DS FORM INDIA</h3>
+<h3 align="center">ASPIRANT LEARNING MERN, AI & DS. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanupamkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="theanupamkumar1" /> </p>
 
